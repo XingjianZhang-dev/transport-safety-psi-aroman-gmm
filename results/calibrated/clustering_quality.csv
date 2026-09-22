@@ -1,0 +1,5 @@
+year,silhouette_gmm,silhouette_tsne_gmm,davies_bouldin_gmm,davies_bouldin_tsne_gmm
+2010,0.309,0.439,1.067,0.753
+2015,0.315,0.447,1.033,0.703
+2019,0.226,0.48,1.09,0.658
+2023,0.303,0.577,1.019,0.482

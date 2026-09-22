@@ -1,0 +1,13 @@
+Year,Pair,Spearman
+2010,Vector vs MinMax,0.988
+2010,Vector vs Max,0.984
+2010,MinMax vs Max,0.996
+2015,Vector vs MinMax,0.986
+2015,Vector vs Max,0.984
+2015,MinMax vs Max,0.998
+2019,Vector vs MinMax,0.993
+2019,Vector vs Max,0.991
+2019,MinMax vs Max,0.998
+2023,Vector vs MinMax,0.995
+2023,Vector vs Max,0.996
+2023,MinMax vs Max,0.998

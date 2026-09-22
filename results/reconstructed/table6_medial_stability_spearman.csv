@@ -1,0 +1,13 @@
+Year,Pair,Spearman
+2010,PSI vs CRITIC,0.998
+2010,PSI vs Entropy,0.967
+2010,CRITIC vs Entropy,0.965
+2015,PSI vs CRITIC,0.993
+2015,PSI vs Entropy,0.963
+2015,CRITIC vs Entropy,0.951
+2019,PSI vs CRITIC,0.986
+2019,PSI vs Entropy,0.988
+2019,CRITIC vs Entropy,0.963
+2023,PSI vs CRITIC,0.963
+2023,PSI vs Entropy,0.925
+2023,CRITIC vs Entropy,0.898

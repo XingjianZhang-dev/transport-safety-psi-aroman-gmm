@@ -1,0 +1,13 @@
+Year,Pair,V_measure
+2010,Gt vs C,1.0
+2010,Gt vs K,0.87
+2010,C vs K,0.87
+2015,Gt vs C,0.708
+2015,Gt vs K,0.8
+2015,C vs K,0.747
+2019,Gt vs C,0.67
+2019,Gt vs K,0.55
+2019,C vs K,0.839
+2023,Gt vs C,0.75
+2023,Gt vs K,0.75
+2023,C vs K,1.0
